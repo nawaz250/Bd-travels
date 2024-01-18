@@ -658,3 +658,731 @@ body {
 
 
 
+.why01 {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.why-choose-us {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.why-choose-us-des {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+ .why-choose-us-despp1 {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 28.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.why-choose-us-despp2 {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: 57.3rem;
+  height: 100%;
+  border: solid 0.1rem rgba(251, 181, 99, 0.200000003);
+  background-color: rgba(251, 181, 99, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+ .why-choose-us-despp3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp2 .why-choose-us-despp3 .hotel-1-jLg {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp2 .why-choose-us-despp3 .group-21-shn {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp2 .why-choose-us-despp3 .group-21-shn .why-choose-us-despp5 {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp2 .why-choose-us-despp3 .group-21-shn .why-choose-us-despp6 {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp8 {
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: 57.3rem;
+  height: 100%;
+  border: solid 0.1rem rgba(41, 206, 246, 0.200000003);
+  background-color: rgba(41, 206, 246, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp8 .why-choose-us-despp9 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp8 .why-choose-us-despp9 .why-choose-us-despp10 {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp8 .why-choose-us-despp9 .group-21-ZMe {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp8 .why-choose-us-despp9 .group-21-ZMe .disto {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .why-choose-us-despp1 .why-choose-us-despp8 .why-choose-us-despp9 .group-21-ZMe .why-choose-us-despp7 {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-25-VPi {
+  margin: 0rem 30.7rem 10rem 29.8rem;
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: calc(100% - 60.5rem);
+  height: 28.4rem;
+  border: solid 0.1rem rgba(233, 68, 68, 0.200000003);
+  background-color: rgba(233, 68, 68, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-25-VPi .group-22-17A {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.mytext2 .Main .group-25-VPi .group-22-17A .group-26-mc8 {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-25-VPi .group-22-17A .group-21-iXN {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-25-VPi .group-22-17A .group-21-iXN .best-price-guarantee-tAx {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-25-VPi .group-22-17A .group-21-iXN .disto11 {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-18-T7a {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-18-T7a .deals-discounts-yrc {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-18-T7a .disto111 {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 53.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../Images/rectangle-12-bg.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE {
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 .group-32-k8c {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 .group-32-k8c .frame-gY4 {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 .group-32-k8c .day-6-night-DH6 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 .group-33-wit {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 .group-33-wit .frame-5aC {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 .group-33-wit .max-10-Q6g {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 .group-34-8oN {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 .group-34-8oN .frame-5Ti {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-35-1B2 .group-34-8oN .malaysia-1MN {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-36-wkp {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-36-wkp .tour-to-satorini-JbN {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-36-wkp .Dealaaa {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-36-wkp .price-1300-1500-5kY {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-36-wkp .group-8-cVa {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-36-wkp .group-8-cVa .group-7-NUk {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.mytext2 .Main .group-39-Bhn .group-38-hRE .group-37-SNp .group-36-wkp .group-8-cVa .group-7-NUk .group-31-LgU {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.mytext2 .Main .group-40-vua {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 5.6rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../Images/rectangle-12-bg-dyW.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn {
+  margin-right: 47.9rem;
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 57.9rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 .group-32-GMA {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 .group-32-GMA .frame-Nuz {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 .group-32-GMA .day-6-night-Joe {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 .group-33-e6p {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 .group-33-e6p .frame-Aqr {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 .group-33-e6p .max-10-Hfa {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 .group-34-p9i {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 .group-34-p9i .frame-wVE {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-35-jc8 .group-34-p9i .malaysia-4Zr {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-36-CRA {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-36-CRA .tour-to-satorini-Yjv {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-36-CRA .Dealaaaa {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-36-CRA .price-1300-1500-9zc {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-36-CRA .group-8-sQp {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-36-CRA .group-8-sQp .group-7-RhE {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.mytext2 .Main .group-40-vua .group-38-eKn .group-37-BKi .group-36-CRA .group-8-sQp .group-7-RhE .group-31-zVS {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.mytext2 .Main .group-41-xqa {
+  margin: 0rem 0.8rem 4.8rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 53.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../Images/rectangle-12-bg-ayi.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A {
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 .group-32-L5S {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 .group-32-L5S .frame-rpU {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 .group-32-L5S .day-6-night-nTE {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 .group-33-WPE {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 .group-33-WPE .frame-eVS {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 .group-33-WPE .max-10-ma4 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 .group-34-K5n {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 .group-34-K5n .frame-f9e {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-35-PR6 .group-34-K5n .malaysia-zBv {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-36-Xhe {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-36-Xhe .tour-to-satorini-tYC {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+ .Dealaaaaa {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-36-Xhe .price-1300-1500-uTJ {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mytext2 .Main .group-41-xqa .group-38-H7A .group-37-dB2 .group-36-Xhe .group-8-qrk {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
