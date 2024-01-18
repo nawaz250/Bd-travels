@@ -1894,4 +1894,12 @@ body {
 .bordera{
 
   padding-left: 50px;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+@media screen and (max-width:576px) {
+  .bordera{
+    grid-template-columns: 1fr;
+  }
 }
